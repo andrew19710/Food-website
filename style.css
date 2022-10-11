@@ -4,10 +4,13 @@ h1{
     background-color: #e3f2fd;
     margin: 0;
     color:crimson;
+    font-weight: bold;
 }
 .lead{
     display: flex;
     justify-content: center;
+    font-weight: bold;
+    color: crimson;
 }
 .container .row{
     justify-content: space-evenly;
@@ -23,5 +26,6 @@ h1{
     margin: 0 auto;
     border: solid 1px red;
 }
+
 
 
