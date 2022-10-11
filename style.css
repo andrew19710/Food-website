@@ -1,3 +1,27 @@
-
+h1{
+    display: flex;
+    justify-content: center;
+    background-color: #e3f2fd;
+    margin: 0;
+    color:crimson;
+}
+.lead{
+    display: flex;
+    justify-content: center;
+}
+.container .row{
+    justify-content: space-evenly;
+}
+.card{
+    width: 33.33%;
+    margin: .5em auto;
+}
+.card p img{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    border: solid 1px red;
+}
 
 
